@@ -5,7 +5,7 @@ if x < 2:
 elif x >= 2:
     print("2 / More")
 else:
-    print("Something else")
+    print("Something else")  # this
 
 # Q2
 if x < 2:
@@ -13,6 +13,6 @@ if x < 2:
 elif x < 20:
     print("Below 20")
 elif x < 10:
-    print("Below 10")
+    print("Below 10")  # this
 else:
     print("Something else")
