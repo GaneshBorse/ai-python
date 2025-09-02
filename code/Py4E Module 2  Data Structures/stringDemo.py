@@ -23,3 +23,4 @@ print(spacepos)
 
 host = email[atpos + 1 : spacepos]
 print(host)
+print(len(host) * 7)
