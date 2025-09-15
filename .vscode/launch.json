@@ -5,13 +5,12 @@
   "version": "0.2.0",
   "configurations": [
     {
-      "name": "Python Debugger: Current File with Arguments",
+      "name": "Python: Current File",
       "type": "debugpy",
       "request": "launch",
       "program": "${file}",
       "console": "integratedTerminal",
-      "args": "${command:pickArgs}",
-      "python": "C:\\Users\\GANESH\\miniforge3\\envs\\py4e\\python.exe"
+      "python": "${config:python.defaultInterpreterPath}"
     }
   ]
 }
