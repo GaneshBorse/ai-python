@@ -7,5 +7,5 @@
 
   "python.defaultInterpreterPath": "C:\\Users\\GANESH\\miniforge3\\envs\\py4e\\python.exe",
   "python.terminal.activateEnvInCurrentTerminal": true,
-  "python.terminal.executeInFileDir": true
+  "python-envs.defaultEnvManager": null
 }
