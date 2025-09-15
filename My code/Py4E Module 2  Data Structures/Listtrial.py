@@ -10,5 +10,5 @@ print(avg)
 """
 #finally done  
 
-inp = input("no")
+inp = input("no ")
 print(inp)
