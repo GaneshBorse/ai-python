@@ -2,10 +2,7 @@
   "editor.formatOnType": true,
   "editor.formatOnSave": true, // Optional: Kept your preference
   "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "python-envs.pythonProjects": [],
-  "python.terminal.launchArgs": [],
-
   "python.defaultInterpreterPath": "C:\\Users\\GANESH\\miniforge3\\envs\\py4e\\python.exe",
-  "python.terminal.activateEnvInCurrentTerminal": true,
-  "python-envs.defaultEnvManager": null
+  "python.condaPath": "C:\\Users\\GANESH\\miniforge3\\Scripts\\conda.exe",
+  "python.terminal.activateEnvInCurrentTerminal": true
 }
