@@ -8,6 +8,7 @@ while True:
 avg = sum(numlist) / len(numlist)
 print(avg)
 """
+#finally done  
 
 inp = input("no")
 print(inp)
