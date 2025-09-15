@@ -2,6 +2,7 @@ text = "X-DSPAM-Confidence:    0.8475"
 col = text.find(":")
 # print(col)
 # print(len(text))
+# lsist = ["abc", "abvd", "sjdsd", "sd"]
 
 value = text[col + 1 : len(text)]
 # print(value)
